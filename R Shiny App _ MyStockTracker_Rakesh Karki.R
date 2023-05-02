@@ -1,6 +1,6 @@
-### YOU WILL NEED TO CREATE AND PLUG YOUR API CODE AT LINE 225 FOR THE THIS TO WORK PROPERLY ###
+### YOU WILL NEED TO CREATE AND PLUG YOUR OWN API CODE AT LINE 225 FOR THE THIS APP TO WORK PROPERLY ###
 
-#### My Stock Tracker : Copr. Rakesh Karki"#####
+#### My Stock Tracker : Rakesh Karki"#####
 ################################################################################
 
 # Create the list of required packages
